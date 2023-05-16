@@ -17,7 +17,7 @@ def main():
     """Convert the notebook to slides and then do some cleaning."""
     try:
         output = subprocess.check_output(
-            ['jupyter', 'nbconvert', args.file_name, '--to', 'slides', '--reveal-prefix', 'reveal.js-3.1.0',
+            ['jupyter', 'nbconvert', args.file_name, '--to', 'slides', '--reveal-prefix', 'reveal.js-3.1.0','--TagRemovePreprocessor.remove_input_tags={\"to_remove\"}',
              '--config', 'static/slides_config.py'], stderr=subprocess.STDOUT).decode('utf-8')
         print(output.rstrip())
 
