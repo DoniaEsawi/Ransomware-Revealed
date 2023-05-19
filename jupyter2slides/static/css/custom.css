@@ -15,6 +15,7 @@ body {
   overflow-y:hidden !important;
 }
 
+
 .reveal {
   font-family: font-family: "PT Sans", Helvetica, Arial, sans-serif!important;
   font-size: 25px;
@@ -69,6 +70,7 @@ body {
   font-size: 3em;
   color: #fff;
 }
+
 
 .reveal h2 {
   font-size: 1.6em; }
@@ -201,7 +203,7 @@ ol li ul li:before {
  * IMAGES
  *********************************************/
 .reveal section img {
-  margin: 15px 0px;
+  margin: 0px 0px;
   background: rgba(255, 255, 255, 0);
   -webkit-transition: all .2s linear;
   -moz-transition: all .2s linear;
