@@ -1,0 +1,1 @@
+python3 vice_society_crawler.py > out.log
