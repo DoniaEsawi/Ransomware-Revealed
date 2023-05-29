@@ -1,4 +1,5 @@
-# Ransomware Revealed: Analyzing Ransomware Attacks with Data Science
+# 🔐 Ransomware Revealed 🔐: Analyzing Ransomware Attacks with Data Science
+
 ![Screenshot (517)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/58045d8b-7f1e-49b8-bea0-6ccd5f3b3651)
 ![Screenshot (518)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/f97a2761-4c99-476a-afa0-ab6afbf18e29)
 ![Screenshot (519)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/33dd54d7-734f-4df8-ba0e-03534c12463b)
@@ -24,4 +25,3 @@
 ![Screenshot (540)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/f39dea8c-3705-4f7c-a347-2dcc01b51f12)
 ![Screenshot (541)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/42f20d25-43b5-4dfe-b41d-5762e3a74a0f)
 ![Screenshot (542)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/047cfe18-a576-454c-a20b-24e6f575e54a)
-
