@@ -1,27 +1,28 @@
 # 🔐 Ransomware Revealed 🔐: Analyzing Ransomware Attacks with Data Science
 
-![Screenshot (517)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/58045d8b-7f1e-49b8-bea0-6ccd5f3b3651)
-![Screenshot (518)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/f97a2761-4c99-476a-afa0-ab6afbf18e29)
-![Screenshot (519)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/33dd54d7-734f-4df8-ba0e-03534c12463b)
-![Screenshot (520)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/de09e397-ea9a-49ad-a886-40ed0cac68c6)
-![Screenshot (521)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/70541f2a-5434-4163-b5fb-62a21760adb4)
-![Screenshot (522)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/8e746344-a725-4057-9940-2cf19593b268)
-![Screenshot (523)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/3f168144-833b-430b-a818-8209c4167311)
-![Screenshot (524)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/f12256a9-4e75-447c-bc23-f88cd93f3dbb)
-![Screenshot (525)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/9d6ababa-088e-4ead-950d-c5e77118f04c)
-![Screenshot (526)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/827ba262-9cc8-46dd-812f-22103e61b135)
-![Screenshot (527)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/063e7fd0-28a6-46a3-a496-16a87193cf1f)
-![Screenshot (528)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/d040071f-f8ce-4fcb-9317-c9b0b7c57972)
-![Screenshot (529)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/e910614f-92e1-4382-b72b-ae991e5a6d58)
-![Screenshot (530)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/394dc8c7-de26-43f8-9018-252cc23aad65)
-![Screenshot (531)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/430133c0-a898-4911-9571-7f9c4ea29ac2)
-![Screenshot (532)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/e69f873e-7e94-4b30-b0ec-8050e2cfccf7)
-![Screenshot (533)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/5e27084a-65a3-4278-8e9f-b68e12b947f4)
-![Screenshot (534)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/e9faccbe-881a-4f99-8d61-ac6c2b16a2d6)
-![Screenshot (535)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/6ce2676e-5a0c-4643-90c5-7ea84bee8419)
-![Screenshot (537)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/6032b94c-0563-4929-959a-8faeca274b27)
-![Screenshot (538)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/18464914-133d-4313-8dc1-96dc4f08ea19)
-![Screenshot (539)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/c1a0bf90-c00b-459f-bdb8-6d3a589edb8c)
-![Screenshot (540)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/f39dea8c-3705-4f7c-a347-2dcc01b51f12)
-![Screenshot (541)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/42f20d25-43b5-4dfe-b41d-5762e3a74a0f)
-![Screenshot (542)](https://github.com/DoniaEsawi/Dark-Web-Data-Analysis/assets/56982963/047cfe18-a576-454c-a20b-24e6f575e54a)
+
+<img src="screenshots/Screenshot (517).png"/>
+<img src="screenshots/Screenshot (518).png"/>
+<img src="screenshots/Screenshot (519).png"/>
+<img src="screenshots/Screenshot (520).png"/>
+<img src="screenshots/Screenshot (521).png"/>
+<img src="screenshots/Screenshot (522).png"/>
+<img src="screenshots/Screenshot (523).png"/>
+<img src="screenshots/Screenshot (524).png"/>
+<img src="screenshots/Screenshot (525).png"/>
+<img src="screenshots/Screenshot (526).png"/>
+<img src="screenshots/Screenshot (527).png"/>
+<img src="screenshots/Screenshot (528).png"/>
+<img src="screenshots/Screenshot (529).png"/>
+<img src="screenshots/Screenshot (530).png"/>
+<img src="screenshots/Screenshot (531).png"/>
+<img src="screenshots/Screenshot (532).png"/>
+<img src="screenshots/Screenshot (533).png"/>
+<img src="screenshots/Screenshot (534).png"/>
+<img src="screenshots/Screenshot (535).png"/>
+<img src="screenshots/Screenshot (537).png"/>
+<img src="screenshots/Screenshot (538).png"/>
+<img src="screenshots/Screenshot (539).png"/>
+<img src="screenshots/Screenshot (540).png"/>
+<img src="screenshots/Screenshot (541).png"/>
+<img src="screenshots/Screenshot (542).png"/>
